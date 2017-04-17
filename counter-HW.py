@@ -1,16 +1,3 @@
-##counter = 0
-##def my_calls_counter():
-##     global counter
-##     counter += 1
-##     print (counter)
-## 
-##print ('=' * 60)
-##print ("Funtion calls:")
-##my_calls_counter()
-##my_calls_counter()
-
-
-
 
 def my_calls_counter():
      a = 0
@@ -28,8 +15,4 @@ f()
 f()
 f()
 
-##if __name__ == "__main__":
-##     print("OK")
-##else:
-##     print("false")
 
